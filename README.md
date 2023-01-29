@@ -1,4 +1,4 @@
-Hello! My name is Maxwell Reilly. I am a classical musician and developer in Grand Junction Colorado.
+Hello! My name is Maxwell Reilly. I am a classical musician and computer programmer in Grand Junction Colorado.
 
 I am very interested in code, because so many of the tools I use are open source, and I would like to give back to the community
 in whatever small way I can manage!
