@@ -1,8 +1,7 @@
 Hello! My name is Maxwell Reilly. I am a classical musician and computer programmer in Grand Junction Colorado.
 
-I am very interested in code, because so many of the tools I use are open source, and I would like to give back to the community
-in whatever small way I can manage!
+Right now, I am practicing programming with "Problem Solving & Program Design in C," by Jeri R. Hanly and Elliot B. Koffman. My objective is to develop a deep understanding of first principles in computation.
 
-I am currently studying data-structures and algorithms in Python, as well as "The C Programing Language."  
+I also use a good deal of bash and lua scripting in my regulare workflow as a musician. 
 
 You can reach me at my email, c.maxwell.reilly@gmail.com.
